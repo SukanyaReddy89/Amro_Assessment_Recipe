@@ -1,0 +1,7 @@
+com\abn\backend\ejb\Ingredient.class
+com\abn\backend\ejb\ProtienProcessorUtil.class
+com\abn\backend\ejb\CalorieProcessorUtil.class
+com\abn\backend\ejb\ProtiensProcessor.class
+com\abn\backend\ejb\ProtiensProcessorBean.class
+com\abn\backend\ejb\CaloriesProcessorBean.class
+com\abn\backend\ejb\CaloriesProcessor.class

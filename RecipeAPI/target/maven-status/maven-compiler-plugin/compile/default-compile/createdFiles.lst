@@ -1,0 +1,15 @@
+com\abnamro\recipe\api\RecipeApi.class
+com\abnamro\recipe\api\ApiResponseMessage.class
+com\abnamro\recipe\api\RecipeApiController.class
+com\abnamro\recipe\model\ModelApiResponse.class
+com\abnamro\recipe\model\Recipe.class
+com\abnamro\recipe\api\NotFoundException.class
+com\abnamro\recipe\service\RecipeServiceInvoker.class
+com\abnamro\recipe\RecipeApplication$ExitException.class
+com\abnamro\recipe\api\ApiException.class
+com\abnamro\recipe\api\ApiOriginFilter.class
+com\abnamro\recipe\RecipeApplication.class
+com\abnamro\recipe\repo\RecipeRepository.class
+com\abnamro\recipe\configuration\HomeController.class
+com\abnamro\recipe\model\Ingredient.class
+com\abnamro\recipe\configuration\SwaggerDocumentationConfig.class
